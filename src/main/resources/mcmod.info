@@ -1,0 +1,16 @@
+[
+{
+  "modid": "WearMyBody",
+  "name": "Wear my Body by TMG",
+  "description": "WEAR MY DAMNED BODY!",
+  "version": "1.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheMasterGeneral"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

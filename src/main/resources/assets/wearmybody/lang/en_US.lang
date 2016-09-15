@@ -1,0 +1,12 @@
+item.tmg_helmet.name=TheMasterGeneral's Headphones
+item.tmg_chestplate.name=TheMasterGeneral's Shirt
+item.tmg_leggings.name=TheMasterGeneral's Pants
+item.tmg_boots.name=TheMasterGeneral's Boots
+item.tmg_skull.name=TheMasterGeneral's Head
+
+item.sith_chestplate.name=Sith Slayer Alpha's Shirt
+item.sith_leggings.name=Sith Slayer Alpha's Pants
+item.sith_boots.name=Sith Slayer Alpha's Boots
+item.sith_skull.name=Sith Slayer Alpha's Head
+
+itemGroup.WearMyBody=Wear My Body Mod
